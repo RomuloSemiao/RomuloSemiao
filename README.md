@@ -1,8 +1,8 @@
-## E ae!! Prazer, sou o Rômulo Semião!
+## E ae, tranquilo!? Eu, sou o Rômulo!!! ✌😎
 
-- Atualmente faço estágio com front-end
-- Estou estudando ASP .Net Core e Angular
-- Pode entrar em contato comigo no https://www.linkedin.com/in/romulosemiao/
+- 💻 Atualmente faço estágio com front-end
+- 🚀 Estou estudando ASP .Net Core e Angular
+- 👀 Pode entrar em contato comigo no https://www.linkedin.com/in/romulosemiao/
 
 <div>
   <a href="https://github.com/romulosemiao">
