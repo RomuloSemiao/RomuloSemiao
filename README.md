@@ -1,7 +1,7 @@
 ## E ae, tranquilo!? Eu, sou o Rômulo!!! ✌😎
 
 - 💻 Atualmente faço estágio em front-end
-- 🚀 Estou estudando Angular e ASP .Net Core 
+- 🚀 Estou estudando React
 - 👀 Pode entrar em contato comigo no https://www.linkedin.com/in/romulosemiao/
 
 <div>
