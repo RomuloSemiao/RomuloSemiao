@@ -3,12 +3,6 @@
 - 🚀 Estudando e apaixonado por React
 - 👀 Pode entrar em contato comigo no https://www.linkedin.com/in/romulosemiao/
 
-<div>
-  <a href="https://github.com/romulosemiao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulosemiao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulosemiao&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
